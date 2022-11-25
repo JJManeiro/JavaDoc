@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ordenador","l":"Computadora"},{"p":"partes","l":"CPU"},{"p":"partes","l":"Monitor"},{"p":"ordenador","l":"Software"},{"p":"partes","l":"Teclado"}];updateSearchResults();
